@@ -4,7 +4,7 @@ import time
 
 URL = "https://br.jobrapido.com/?w=developer&l=brasil&r=auto&shm=all"
 
-WEBHOOK_URL = "https://discord.com/api/webhooks/1336694808982585396/6Hri02ZnDo2T9tT3mxWDPxzF81ugb_sUTpL7S_PTEPDyN6RvFolBC415Y2BFp3NassS5"
+WEBHOOK_URL = ""
 
 sent_titles = []
 
